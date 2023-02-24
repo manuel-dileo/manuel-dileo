@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manuel-dileo, PhD student at Connets Lab.
 - 👀 I’m interested in machine learning on graph
-- 🌱 I’m currently learning heterogeneous and dynamic graph neural networks
+- 🌱 I’m currently learning temporal heterogeneous graph neural networks
 - 📫 How to reach me manuel dot dileo at unimi dot it
 
 <!---
